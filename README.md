@@ -23,7 +23,7 @@ Download Monitor Page Addon by Mike Jolley (http://mikejolley.com/projects/downl
 
 ### Installation
 
-Download ZIP File, go to your Wordpress Admin page, click on Plugins, then click on Upload, upload the ZIP file, Activate Plugin, Profit.
+<a href="https://github.com/tripflex/download-monitor-page-addon-qr/archive/master.zip">Download this file</a>, go to your Wordpress Admin page, click on Plugins, then click on Upload, upload the ZIP file, Activate Plugin, Profit.
 
 
 ### License
